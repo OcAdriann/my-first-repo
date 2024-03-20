@@ -1,1 +1,2 @@
 # my-first-repo
+Hello, my name is Adrian. I am a 20 year musician born and raised in bushwick. I come from a mexican family, I love to play guitar and I also help out a lot at my church. I am the middle with a older brother and a younger sister.
